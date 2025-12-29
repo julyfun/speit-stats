@@ -210,8 +210,59 @@ n(X̄² - (X̄)²) ~ χ²\_{n-1}
 #im(13)
 
 Step 1 Select a Good Point Estimate:
+mean Xn is often used for estimating the population me
 ][
+#im(14)
+#im(15)
+#im(16, h: 40%)
+][
+#im(17)
+#im(18)
+#im(19)
+]
+#slide[
+#im(20)
+#im(21)
+α 是你主动控制的，β 是你努力最小化的。
+#im(22, h: 34%)
+][
+#im(24, h: 45%)
+#im(25, h: 45%)
+][
+#im(27, h: 40%)
+#im(26, h: 55%)
+]
+
+#slide[
+p: 在 H0​ 为真的前提下，观测到当前样本或更极端结果的概率。
+#im(28, h: 20%)
+#im(29)
+#im(32)
+#im(33)
+][
+=== LRT
+#im(34)
+#im(35)
+#im(36)
+#im(37)
+][
+#im(38, h: 45%)
+#im(39, h: 50%)
+]
+
+#slide[
+#im(40)
+#im(41)
+#im(42)
+][
+#im(43)
 
 ][
 
+]
+
+#slide[
+#im(44)  
+][
+#im(45)  
 ]
